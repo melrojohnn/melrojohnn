@@ -28,9 +28,9 @@ I'm a backend developer passionate about building **Java and Spring Boot applica
 ---
 
 ## 📊 GitHub Stats
-![Johnnes's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnesmelro&show_icons=true&theme=dracula)
+![Johnnes's GitHub stats](https://github-readme-stats.vercel.app/api?username=melrojohnn&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnesmelro&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melrojohnn&layout=compact&theme=dracula)
 
 ---
 
