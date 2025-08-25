@@ -1,42 +1,74 @@
-# 👋 Hello, I'm Johnnes Melro!
+# 👋 Hi, I'm Johnn Melro
 
-I'm a backend developer passionate about building **Java and Spring Boot applications** with a focus on **clean architecture, CI/CD pipelines, and cloud deployment**.
+🔹 Chrome Extension & Jira Automation Developer | Java Enthusiast | Full-Stack Hobbyist  
 
----
-
-## 🚀 About Me
-- 🌱 Currently working with **Java (OOP, Collections, Streams)** and building a real project:  
-  **Notebook Rental System** – a full-stack application with PostgreSQL, Spring Boot, JWT authentication, CI/CD, Docker, and AWS deployment.
-
-- 🛠️ Exploring **Flyway for database migrations** and **Jenkins for CI/CD**.
-
-- 🗺️ Roadmap:  
-  1. Master Java Core  
-  2. Integrate with PostgreSQL (JDBC, JPA, Flyway)  
-  3. Spring Boot (CRUD, JWT, Security)  
-  4. CI/CD with Jenkins  
-  5. Docker containerization  
-  6. AWS deployment  
+Welcome to my GitHub! I share projects, experiments, and tools that make life easier for developers and enhance my learning journey.
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Java, SQL, JavaScript  
-- **Frameworks & Tools:** Spring Boot, Maven, Lombok, Flyway, Jenkins, Docker, AWS  
-- **Databases:** PostgreSQL  
+## 🚀 Featured Projects
+
+### **[JIRA API Field Highlighter](https://github.com/melrojohnn/jira_api_field_highlighter)**  
+A Chrome extension that highlights JIRA API fields directly in your browser for quick visualization and interaction.  
+![Placeholder GIF](https://via.placeholder.com/400x200?text=GIF+Demo+Coming+Soon)  
+**Features:**  
+- Highlights JIRA fields dynamically  
+- Customizable color schemes  
+- Works with JIRA Cloud and Jira Software API  
+- Easy to install in Developer Mode  
+
+---
+
+### **[ProjectSW](https://github.com/melrojohnn/projectsw)**  
+My personal playground for Java experiments and learning.  
+**Focus:**  
+- Core Java and object-oriented design  
+- Exploring frameworks and libraries  
+- Fun experiments to sharpen coding skills  
+
+---
+
+### **[RentGapp](https://github.com/melrojohnn/rentGapp)**  
+Personal SaaS project for property and rental management.  
+**Focus:**  
+- Web application development  
+- Backend & frontend integration  
+- Building a full-stack experience  
+
+---
+
+### **[ScriptRunner Scripts](https://github.com/melrojohnn/scriptrunner)**  
+Sharing Jira ScriptRunner scripts to automate repetitive tasks and improve daily workflows.  
+**Focus:**  
+- Jira Cloud and Data Center  
+- Groovy scripting for automation  
+- Enhancing productivity for teams  
+
+---
+
+## 🛠️ Technologies & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=groovy&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats
-![Johnnes's GitHub stats](https://github-readme-stats.vercel.app/api?username=melrojohnn&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melrojohnn&layout=compact&theme=dracula)
+![Johnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=melrojohnn&show_icons=true&count_private=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melrojohnn&layout=compact&theme=radical)  
+
+---
+
+## 💬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnnmelro)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
 
 ---
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/melro)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnnes.melro@gmail.com)
-
----
-*Let's build something amazing together!*
+> I love building tools that make developer life easier and sharing knowledge with the community.  
+> Feel free to explore my repositories and reach out!
