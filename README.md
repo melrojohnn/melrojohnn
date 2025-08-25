@@ -5,7 +5,7 @@ I'm a backend developer passionate about building **Java and Spring Boot applica
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Java (OOP, Collections, Streams)** and building a real project:  
+- 🌱 Currently working with **Java (OOP, Collections, Streams)** and building a real project:  
   **Notebook Rental System** – a full-stack application with PostgreSQL, Spring Boot, JWT authentication, CI/CD, Docker, and AWS deployment.
 
 - 🛠️ Exploring **Flyway for database migrations** and **Jenkins for CI/CD**.
